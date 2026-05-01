@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, I'm Isabelle 👋
 
-<!--
-**isabellepak/isabellepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Accounting major with an interest in Management Information Systems at the University of South Florida.
 
-Here are some ideas to get you started:
+Currently, I am interested in utilizing technology to analyze financial data and improve business efficiency. I am also interested in learning more about Artifical Intelligence and hope to incorporate AI in future projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Microsoft Excel
+- Python (experience)
+- Java (experience)
+
+## Experience
+- UGC Contributor, KoovAI (AI Startup)
+  - Contribute user-generated content and support content development initiatives
+ 
+## Interests
+- Accounting
+- Financial Analysis
+- Management Information Systems
